@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:John;Shehan;;;
+FN:Shehan John
+ORG:Just Sorted
+TITLE:Co-founder
+EMAIL;TYPE=WORK,INTERNET:hello@justsorted.com.au
+TEL;TYPE=WORK,VOICE:+61480889901
+URL:https://justsorted.com.au
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/justsorted
+NOTE:Done-for-you AI for Aussie entrepreneurs. Take back your week.
+END:VCARD
