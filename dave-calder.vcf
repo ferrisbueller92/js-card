@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Calder;Dave;;;
+FN:Dave Calder
+ORG:Just Sorted
+TITLE:Co-founder
+EMAIL;TYPE=WORK,INTERNET:hello@justsorted.com.au
+TEL;TYPE=CELL,VOICE:+61422616829
+URL:https://justsorted.com.au
+URL;TYPE=LinkedIn:https://www.linkedin.com/company/justsorted
+NOTE:Done-for-you AI for Aussie entrepreneurs. Take back your week.
+END:VCARD
